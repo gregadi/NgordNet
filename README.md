@@ -1,2 +1,2 @@
-NGordNet/
-To see code files: go to main
+NGordNetm \
+To see code files: go to main.
